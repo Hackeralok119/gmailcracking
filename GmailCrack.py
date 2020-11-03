@@ -2,16 +2,16 @@
 
 print"Join Ethical Hacker's Community"
 #Information
-print "Author: Kinghacker0"
-print "YouTube - www.YouTube.com/Hacker's King "
-print "Website - www.hackersking.in"
+print "Author: Alok HAcker"
+print "YouTube - www.YouTube.com/Master of Technology "
+print "Website - www.hackingcourses.tk"
 
 print"      *                                            *   "
 print"     *                                              *    "
 print"    **                                              **   "
 print"   *   **                                        **   *    "
 print"   **   **  *                               *   **    **   "
-print"   ***    * **    Instagram-@kinghacker0   **  *    ***  "
+print"   ***    * **    Instagram-Hacker.alok1   **  *    ***  "
 print"    ****    ******************************* ***   ****   "
 print"       *******    *****        *******    **********  "
 print"  ***********           *****             ************     "
